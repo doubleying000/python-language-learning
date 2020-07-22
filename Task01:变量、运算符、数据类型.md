@@ -6,7 +6,6 @@
 【例子】
 print("Hello World")
 # Hello World
-print('This is Python')
 
 """ 
 Hello World 
