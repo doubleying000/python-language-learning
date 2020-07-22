@@ -79,4 +79,29 @@ bool | 布尔型`<class 'bool'>` | `True, False`
 
 
 
+## 2.位运算
 
+leetcode 习题 136. 只出现一次的数字
+
+给定一个非空整数数组，除了某个元素只出现一次以外，其余每个元素均出现两次。找出那个只出现了一次的元素。
+
+尝试使用位运算解决此题。
+
+题目说明:
+
+"""
+Input file
+example1: [2,2,1]
+example2: [4,1,2,1,2]
+
+Output file
+result1: 1
+result2: 4
+"""
+
+
+
+class Solution:
+    def singleNumber(self, nums: List[int]) -> int:
+        
+     # your code here
