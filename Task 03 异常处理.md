@@ -3,7 +3,7 @@
 异常就是运行期检测到的错误。计算机语言针对可能出现的错误定义了异常类型，某种错误引发对应的异常时，异常处理程序将被启动，从而恢复程序的正常运行。
 - 了解Python 标准异常总结和Python标准警告总结
 
-- 了解try - except 语句、try - except - finally 语句、try - except - else 语句和 raise语句进行程序处理的学习
+- 了解try - except 语句、try - except - finally 语句、try - except - else 语句和 raise语句进行程序错误处理的学习
 
 
  **练习题**：
